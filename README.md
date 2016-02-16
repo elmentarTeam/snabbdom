@@ -1,2 +1,2 @@
-# snabbdom
-snabbdom simple examples
+# snabbdom counter
+
